@@ -1,46 +1,34 @@
 
-[![Balatro](https://www.playbalatro.com/assets/logo2-C9SU2BrI.png)](https://www.playbalatro.com/)
+# Balatro Mongolian Localisation Project
 
-# Balatro French Translation
+Individual project on translating and localising Balatro into Mongolian language. Meant to be made on my own, with significant changes, but any help or uggestions are welcome.
 
-A humble community-made version of the French localization of Balatro.
+*Learn more about Balatro on [playbalatro.com](https://www.playbalatro.com/), and buy it to support its creator! Highly recommended, fun indie games like this is rare tho!*
 
-*Learn more about Balatro on [playbalatro.com](https://www.playbalatro.com/), and buy it to support its creator!*
+## How to install this mod tho? ?
 
-## Comment installer le mod ?
-
-### [Téléchargez le mod qui vous convient](https://github.com/FrBmt-BIGetNouf/balatro-french-translations/releases/latest)
-
-- Si vous êtes sous Windows, [vous pouvez **installer la traduction** en une minute chrono en utilisant notre script](QUICKSTART.md).
-
-- Si vous êtes sur SteamDeck, [vous pouvez **installer la traduction** en une minute chrono en utilisant notre script](QUICKSTART_STEAMDECK.md).
-
-- Si vous n’êtes pas sous Windows ou que vous voulez le faire manuellement, vous pouvez consulter nos autres méthodes d’installation [dans le fichier INSTALL.md](INSTALL.md).
-
-## Current state
+I'll figure it out when I'm ready I guess. It's moreso for my personal use, so I might slog down in terms of releasing it to public.
 
 ### Translations
 
-✅ v1.0.1 — 100% of the game is translated in French.
+✅ v0.0.1. Groundworks have begun. No significant translations have been done yet.
 
 ### Installers
 
 | Category                                      | Status | Comment            |
 | --------------------------------------------- | ------ | ------------------ |
-| [Easy, 1-click script](QUICKSTART.md)         | ✔️      | |
-| [Steamodded](INSTALL.md#via-un-mod)           | ✔️      | |
-| [Balamod](https://github.com/balamod/balamod) | ✔️      | |
-| [Manual](INSTALL.md#à-la-main)                | ✔️      | |
+| [Easy, 1-click script](QUICKSTART.md)         | X      | |
+| [Steamodded](INSTALL.md#via-un-mod)           | X      | |
+| [Balamod](https://github.com/balamod/balamod) | X      | |
+| [Manual](INSTALL.md#à-la-main)                | X      | |
 
 ## Contributing
 
-Contributions are always welcome! You can **contribute by joining us on** [**Discord** (Balatro FR - loc mod)](https://discord.gg/kQMdHTXB3Z) to share feedback, debate translations, and learn more about how we made it.
-
-If you are interested in replicating the same work for another language, **feel free to fork our repository**! You can also be interested in [the pipeline we used for localizing sprites](https://github.com/Signez/balatro-sprites-i18n).
+Forked from very popular French localisation mod, as it was very lackluster in the original game. Easy to look over tho, it is an indie game, and localisation is not the highest priority. Even bigger games like fucking Elden Ring uses Google Translate to get to the end of it, so makes sense for the game to have a subpar translation where the community may want to change it for the better. Only problem I personally have would be the fact that the game is NOT welcoming for translations, like, say, Papers Please, but again, too much to ask from a small company tbh.
 
 ## Contributors
 
-Robin Lassire, Gabriel Rodrigues, Pierre-Alexandre Rouillon, Stanislas Signoud (Signez), Bastien Luneteau, Quentin Furtys, Nicolas Cordier, David Lefebvre, François Beaumont.
+HeneralSombrero (not willing to expose my real name in ANY circumstances tho).
 
 ## License
 
